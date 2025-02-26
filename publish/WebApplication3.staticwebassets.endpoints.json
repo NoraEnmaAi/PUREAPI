@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "FileName.8ojbgxv3pa.txt",
+      "AssetFile": "FileName.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WBwQ8lJW20hOXM/yJYT6I796et7ULmJ2aUOfvXypu1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:53:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ojbgxv3pa"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WBwQ8lJW20hOXM/yJYT6I796et7ULmJ2aUOfvXypu1k="
+        },
+        {
+          "Name": "label",
+          "Value": "FileName.txt"
+        }
+      ]
+    },
+    {
+      "Route": "FileName.txt",
+      "AssetFile": "FileName.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WBwQ8lJW20hOXM/yJYT6I796et7ULmJ2aUOfvXypu1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:53:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WBwQ8lJW20hOXM/yJYT6I796et7ULmJ2aUOfvXypu1k="
+        }
+      ]
+    },
+    {
+      "Route": "FileName2.nlqosmwnfx.txt",
+      "AssetFile": "FileName2.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxCGx9Pw4Bpiba1zbjHTj5lkJKoeyefPdLBR8D607zw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:44:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlqosmwnfx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxCGx9Pw4Bpiba1zbjHTj5lkJKoeyefPdLBR8D607zw="
+        },
+        {
+          "Name": "label",
+          "Value": "FileName2.txt"
+        }
+      ]
+    },
+    {
+      "Route": "FileName2.txt",
+      "AssetFile": "FileName2.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxCGx9Pw4Bpiba1zbjHTj5lkJKoeyefPdLBR8D607zw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:44:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxCGx9Pw4Bpiba1zbjHTj5lkJKoeyefPdLBR8D607zw="
+        }
+      ]
+    }
+  ]
+}
